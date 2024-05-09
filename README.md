@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riddhs
+- 👋 Hi, I’m Riddhi.
 - 👀 I’m software QA Engineer.
 - 🌱 I’m currently learning automation testing with selenium webdriver with python scripting language.
 - 💞️ I’m looking to collaborate on well known organization where I can improve my skills.
