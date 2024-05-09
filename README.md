@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riddhs
-- 👀 I’m interested in software quality.
+- 👀 I’m software QA Engineer.
 - 🌱 I’m currently learning automation testing with selenium webdriver with python scripting language.
 - 💞️ I’m looking to collaborate on well known organization where I can improve my skills.
 - 📫 You can find me on https://www.linkedin.com/in/riddhi-parmar-aa0840b2/ 
